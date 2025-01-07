@@ -1,0 +1,24 @@
+#kutu1{
+  background: red;
+  width: 100vw; height: 10vh;
+}
+#kutu2{
+  background: linear-gradient(navy,red);
+  width: 100vw; height: 10vh;
+}
+#kutu3{
+  opacity: 0.5;
+  width: 100vw; height: 10vh;
+}
+#kutu4{
+ background: url(/Mona_Lisa\,_by_Leonardo_da_Vinci\,_from_C2RMF_retouched.jpg) no-repeat
+ , url(/Mona_Lisa\,_by_Leonardo_da_Vinci\,_from_C2RMF_retouched.jpg) no-repeat ;
+ width: 100vw; height: 10vh;
+}
+#kutu5{
+  background-color: red;
+  width: 100vw; height: 40vh;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-decoration: underline;
+ font-size: 4vh;
+}
